@@ -1390,7 +1390,7 @@ nav ul li a {
   flex-direction: column;
   width: 30%;
   margin: auto;
-  padding: 20px;
+  padding: 30px 0;
 }
 .email-input {
   border: 2px solid #fff;
@@ -2830,7 +2830,7 @@ input#file.inputfile.col-5 {
     margin-left: 0;
   }
   .pricing {
-    margin-bottom: 90%;
+    margin-bottom: 10%;
     overflow: hidden;
   }
 
@@ -2974,6 +2974,9 @@ input#file.inputfile.col-5 {
   .go-fav {
     max-height: 130px;
     max-width: 130px;
+  }
+  footer {
+    margin-top: 10%;
   }
 }
 
