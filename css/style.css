@@ -2768,12 +2768,12 @@ input#file.inputfile.col-5 {
   }
   .fi-img-4 {
     margin-top: 0;
-    max-height: 100%;
-    max-height: 100%;
+    height: auto;
+    max-width: 100%;
   }
   .no-average-img {
-    max-height: 100%;
-    max-height: 100%;
+    height: auto;
+    max-width: 100%;
   }
 
   .feature-info p {
@@ -2788,12 +2788,12 @@ input#file.inputfile.col-5 {
   }
   .mutual-growth-img {
     margin-top: 5%;
-    max-height: 100%;
-    max-height: 100%;
+    height: auto;
+    max-width: 100%;
   }
   .telus-building-img {
-    max-height: 100%;
-    max-height: 100%;
+    height: auto;
+    max-width: 100%;
   }
 
   .mobile-visable img {
