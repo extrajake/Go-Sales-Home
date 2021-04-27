@@ -2721,9 +2721,12 @@ input#file.inputfile.col-5 {
     justify-content: center;
     align-items: center;
     line-height: 3rem;
+    flex-direction: column;
+    text-align: center;
   }
   .experience-section {
     margin-left: 10%;
+    overflow: visible;
   }
 
   .line-1,
@@ -2740,6 +2743,7 @@ input#file.inputfile.col-5 {
   .mutual-growth-img,
   .fi-img-4 {
     max-height: 300px;
+    margin-top: 10%;
   }
 
   .about {
@@ -2764,10 +2768,12 @@ input#file.inputfile.col-5 {
   }
   .fi-img-4 {
     margin-top: 0;
-    max-height: 500px;
+    max-height: 100%;
+    max-height: 100%;
   }
   .no-average-img {
-    max-height: 500px;
+    max-height: 100%;
+    max-height: 100%;
   }
 
   .feature-info p {
@@ -2782,7 +2788,12 @@ input#file.inputfile.col-5 {
   }
   .mutual-growth-img {
     margin-top: 5%;
-    max-height: 500px;
+    max-height: 100%;
+    max-height: 100%;
+  }
+  .telus-building-img {
+    max-height: 100%;
+    max-height: 100%;
   }
 
   .mobile-visable img {
