@@ -2632,6 +2632,13 @@ input#file.inputfile.col-5 {
   .gl2 {
     margin-top: -10%;
   }
+  .experience {
+    justify-content: center;
+    align-items: center;
+    line-height: 3rem;
+    flex-direction: column;
+    text-align: center;
+  }
   .evolve {
     background: none;
     margin-right: 0;
@@ -2829,6 +2836,8 @@ input#file.inputfile.col-5 {
   .price-head-3 {
     margin-left: 0;
   }
+  .price-head ul {
+  }
   .pricing {
     margin-bottom: 10%;
     overflow: hidden;
@@ -2850,6 +2859,7 @@ input#file.inputfile.col-5 {
     margin: 0%;
     width: 100%;
     max-width: 100%;
+    padding: 5% 10%;
   }
   .features {
     padding-bottom: 90px;
