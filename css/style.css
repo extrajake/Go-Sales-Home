@@ -2788,12 +2788,12 @@ input#file.inputfile.col-5 {
   }
   .mutual-growth-img {
     margin-top: 5%;
-    width: auto;
-    max-height: 100%;
+    max-height: 300px;
+    max-width: 100%;
   }
   .telus-building-img {
-    width: auto;
-    max-height: 100%;
+    height: 400px;
+    max-width: 100%;
   }
 
   .mobile-visable img {
