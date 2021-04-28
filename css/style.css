@@ -2787,11 +2787,11 @@ input#file.inputfile.col-5 {
   .fi-img-4 {
     margin-top: 0;
     height: auto;
-    max-width: 100%;
+    max-width: auto;
   }
   .no-average-img {
     height: auto;
-    max-width: 100%;
+    max-width: auto;
   }
 
   .feature-info p {
@@ -2807,11 +2807,11 @@ input#file.inputfile.col-5 {
   .mutual-growth-img {
     margin-top: 5%;
     max-height: 350px;
-    max-width: 100%;
+    max-width: auto;
   }
   .telus-building-img {
     height: 600px;
-    max-width: 100%;
+    max-width: auto;
   }
 
   .mobile-visable img {
