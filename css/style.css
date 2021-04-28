@@ -2610,6 +2610,11 @@ input#file.inputfile.col-5 {
     font-size: 5rem !important;
   }
 }
+@media (max-width: 1412px) {
+  .experience {
+    margin-left: 0;
+  }
+}
 
 @media (max-width: 1216px) {
   .price-vector {
@@ -2643,6 +2648,7 @@ input#file.inputfile.col-5 {
     line-height: 3rem;
     flex-direction: column;
     text-align: center;
+    line-height: 4rem;
   }
   .evolve {
     background: none;
@@ -2735,9 +2741,9 @@ input#file.inputfile.col-5 {
     line-height: 3rem;
     flex-direction: column;
     text-align: center;
+    margin: auto;
   }
   .experience-section {
-    margin-left: 10%;
     overflow: visible;
   }
 
