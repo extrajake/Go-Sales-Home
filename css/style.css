@@ -2785,13 +2785,14 @@ input#file.inputfile.col-5 {
     margin: auto;
   }
   .fi-img-4 {
+    display: block;
+    max-width: 400px;
     margin-top: 0;
     height: auto;
     max-width: auto;
   }
   .no-average-img {
     display: block;
-    margin: auto;
     max-width: 400px;
     height: auto;
     width: auto;
@@ -2808,11 +2809,15 @@ input#file.inputfile.col-5 {
     width: 100%;
   }
   .mutual-growth-img {
+    display: block;
+    max-width: 400px;
     margin-top: 5%;
     max-height: 350px;
     max-width: auto;
   }
   .telus-building-img {
+    display: block;
+    max-width: 400px;
     height: 600px;
     max-width: auto;
   }
