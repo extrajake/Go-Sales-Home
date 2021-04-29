@@ -2791,6 +2791,7 @@ input#file.inputfile.col-5 {
   }
   .no-average-img {
     display: block;
+    margin: auto;
     max-width: 400px;
     height: auto;
     width: auto;
