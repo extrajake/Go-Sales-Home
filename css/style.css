@@ -2790,6 +2790,8 @@ input#file.inputfile.col-5 {
     max-width: auto;
   }
   .no-average-img {
+    display: block;
+    max-width: 300px;
     height: auto;
     width: auto;
   }
