@@ -1928,7 +1928,7 @@ nav ul li a {
 /***********************ABOUT PAGE**********************/
 
 .about-hero {
-  height: auto;
+  height: 100vh;
   text-align: center;
   background-image: url(../images/pink-blue-img.jpg);
   background-position: 55% 50%;
@@ -2632,6 +2632,17 @@ input#file.inputfile.col-5 {
 @media (max-width: 1412px) {
   .experience {
     margin-left: 0;
+  }
+  .about-hero-title-h3 {
+    margin-left: 30%;
+  }
+  .about-hero-title {
+    margin-left: 10%;
+    padding-top: 10%;
+    line-height: 3rem;
+  }
+  .about-hero-title h1 {
+    line-height: 4rem;
   }
 }
 
