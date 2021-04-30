@@ -156,7 +156,6 @@ body {
 
 .green {
   color: #39b54a;
-  position: relative;
 }
 
 ol,
@@ -1868,16 +1867,36 @@ nav ul li a {
   font-weight: 600;
 }
 
+.best {
+  margin: auto;
+  padding: 5%;
+}
+
+.best h3 {
+  color: #333;
+  font-weight: 600;
+}
+
+.t-1 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+
 .careers-vector {
   position: absolute;
   height: 50vh;
   margin-left: 50%;
 }
+.careers-vector-2 {
+  position: absolute;
+  height: 50vh;
+  margin-top: 10%;
+}
 
 .careers-run-img {
   max-width: 50%;
   height: auto;
-  max-height: 1000px;
+  max-height: 1061px;
 }
 
 .careers-h1-h3 {
@@ -1909,7 +1928,7 @@ nav ul li a {
 /***********************ABOUT PAGE**********************/
 
 .about-hero {
-  height: 100vh;
+  height: auto;
   text-align: center;
   background-image: url(../images/pink-blue-img.jpg);
   background-position: 55% 50%;
@@ -2902,6 +2921,9 @@ input#file.inputfile.col-5 {
   div.row.learn-row {
     margin: 0 0;
   }
+  .email-entry {
+    width: 75%;
+  }
 
   .careers-t-h-p {
     max-width: 100%;
@@ -2925,6 +2947,9 @@ input#file.inputfile.col-5 {
     margin: 0 5%;
   }
 
+  .best {
+    margin: auto 5%;
+  }
   .about-hero-title {
     margin: 3% 0 0 0;
     text-align: center;
