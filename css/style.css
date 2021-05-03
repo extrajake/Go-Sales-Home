@@ -2957,6 +2957,9 @@ input#file.inputfile.col-5 {
   .careers-h {
     margin: 0 5%;
   }
+  .careers-group-img {
+    max-height: 600px;
+  }
 
   .best {
     margin: auto 5%;
