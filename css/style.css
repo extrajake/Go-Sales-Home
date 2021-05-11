@@ -2114,6 +2114,9 @@ nav ul li a {
 .partner-row {
   margin: 10%;
 }
+.partner h3 {
+  line-height: 1.5rem;
+}
 
 .partner-row h1,
 .partner-row h3 {
