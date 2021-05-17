@@ -2727,6 +2727,21 @@ input#file.inputfile.col-5 {
     max-width: 100%;
     margin: auto;
   }
+
+  .no-average-img,
+  .mutual-growth-img {
+    max-height: 450px;
+    max-width: 450px;
+    margin-top: 10%;
+  }
+
+  .fi-img-4 {
+    max-height: 400px;
+    max-width: 550px;
+    margin-top: 15%;
+    margin-left: 5%;
+  }
+
   .form-logo {
     border: none;
     margin: 0;
@@ -2766,6 +2781,16 @@ input#file.inputfile.col-5 {
   .apply-title-box {
     background-color: transparent;
     align-items: flex-end;
+  }
+  .fi-1 {
+    margin-left: 0;
+  }
+  .feature-info h2 {
+    line-height: 4rem;
+    margin-top: 20%;
+  }
+  .line {
+    display: none;
   }
 }
 @media (max-width: 769px) {
