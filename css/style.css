@@ -2635,6 +2635,9 @@ input#file.inputfile.col-5 {
 .file-custom-1 {
   margin-left: 42%;
 }
+.line-m-1 {
+  display: none;
+}
 
 /*************************Mobile*******************************/
 @media (max-width: 1675px) {
@@ -2791,6 +2794,14 @@ input#file.inputfile.col-5 {
   }
   .line {
     display: none;
+  }
+  .line-m-1 {
+    display: block;
+    margin-top: -55%;
+    margin-left: 20%;
+    max-height: 300px;
+    max-width: 400px;
+    z-index: 10;
   }
 }
 @media (max-width: 769px) {
