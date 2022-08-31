@@ -305,8 +305,7 @@ nav ul li a,
   position: absolute;
   max-height: 200px;
 }
-.features {
-}
+
 .features h1,
 .features h2,
 .features h3,
@@ -486,7 +485,7 @@ nav ul li a,
 }
 
 .features:before {
-  content: "";
+  /* content: ""; */
   position: absolute;
   top: 70px;
   left: 0;
