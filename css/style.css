@@ -904,6 +904,14 @@ nav ul li a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.blog-features {
+  margin: 0 0;
+  padding: 100px 0;
+ 
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .features-sec {
   float: left;
