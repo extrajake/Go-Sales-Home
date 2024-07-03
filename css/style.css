@@ -743,6 +743,9 @@ nav {
 ul li {
   margin-left: 30px;
 }
+.hw:hover {
+color:white;
+}
 
 nav ul li {
   display: inline-block;
